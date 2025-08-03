@@ -2,3 +2,6 @@
 
 -Estado del projecto: en construcióm.
 
+Para ejecutar el sistema, debes poner:
+
+`nmp install react`
